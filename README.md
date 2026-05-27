@@ -61,6 +61,9 @@ sudo python3 sentinel.py
 - Obstacle avoidance integration
 - WhatsApp/email alert on detection
 
+# demonstration video
+- https://youtube.com/shorts/VrBoMZ5SWUs?si=AJDh_gbTbc0zdGkg
+
 # Built By
 Joshua Joel Fernandes
 Electronics and Computer Engineering
