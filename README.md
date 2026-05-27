@@ -12,15 +12,6 @@ computer vision, and physically tracks detected faces
 using a pan-tilt servo mechanism. Live annotated video 
 streams to a web dashboard accessible from any phone.
 
-# Features
-- Real-time face detection using OpenCV Haar Cascade
-- Pan-tilt camera physically tracks detected faces
-- Autonomous patrol mode with left/right sweep
-- Live MJPEG video stream via Flask web server
-- Manual drive control from mobile browser
-- 100% offline — no internet or cloud required
-- Dual mode: PATROL and LOCKED ON
-
 
 # Features
 - Real-time face detection using OpenCV Haar Cascade
